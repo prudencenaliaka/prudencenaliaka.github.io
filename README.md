@@ -1,4 +1,4 @@
-# {application name}, {author name}
+# application name
 landing page portfolio
 prudence naliaka
 ## Description
@@ -6,5 +6,6 @@ the project was all about creating a landing page portfolio and the requirements
 ## Known Bugs
 none
 ## Technologies Used
-i mainly used hypertext markup language and cascading style sheet
+HTML CSS
 ### License
+GPL
